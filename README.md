@@ -1,2 +1,2 @@
-# odin_test
-Hello Odin!
+# Invoice key info extracting
+This script aims to extract key information from an invoice, such as the vendor, purchase date, and total amount. It then generates a CSV file to store all extracted information, grouping the invoices by purchase date.
